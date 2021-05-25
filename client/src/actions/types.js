@@ -1,0 +1,24 @@
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+export const DELETE_USER = "DELETE_USER";
+export const SET_USER = "SET_USER";
+export const USER_LOADED = "USER_LOADED";
+export const UPDATE_DETAILS = "UPDATE_DETAILS";
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
+export const AUTH_ERROR = "AUTH_ERROR";
+export const LOGOUT = "LOGOUT";
+
+export const GET_POSTS = "GET_POSTS";
+export const SET_LOADING = "SET_LOADING";
+export const GET_FEED = "GET_FEED";
+export const FIND_PEOPLE = "FIND_PEOPLE";
+export const GET_POST = "GET_POST";
+export const POSTS_ERROR = "POSTS_ERROR";
+export const ADD_POST = "ADD_POST";
+export const DELETE_POST = "DELETE_POST";
+export const UPDATE_LIKES = "UPDATE_LIKES";
+export const ADD_COMMENT = "ADD_COMMENT";
+export const REMOVE_COMMENT = "REMOVE_COMMENT";
+export const FOLLOW = "FOLLOW";
